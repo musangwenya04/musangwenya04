@@ -13,8 +13,8 @@ I'm an IT student building strong fundamentals in web development and programmin
  🛠️ Tech Stack
 Languages: HTML5, CSS, Programming  - basics
 
-👨‍🔧 Tools - Git, GitHub, VS Code
-Concepts - Semantic HTML, Responsive Design, Basic Programming Logic
+👨‍🔧 Tools - VS Code
+Concepts - Semantic HTML and  Basic Programming.
 
  📌 Pinned Projects
 Check my pinned repositories below Each documentation showing what I built and what I learned.
