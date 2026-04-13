@@ -1,16 +1,29 @@
-## Hi there 👋
+ # Hi, I'm Musa 👋
 
-<!--
-**musangwenya04/musangwenya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Diploma in IT Student @ Belgium CampusItversity | kempton park 
 
-Here are some ideas to get you started:
+I'm an IT student building strong fundamentals in web development and programming. I enjoy turning ideas into clean, functional code and learning how tech solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current focus: Building responsive layouts with HTML & CSS, and strengthening my programming basics  
+
+🌱 Learning next : JavaScript for interactivity, and SQL fundamentals  
+
+⭐️Goal for 2026: Deploy 3 solid projects and land an IT internship
+
+ 🛠️ Tech Stack
+Languages: HTML5, CSS, Programming  - basics
+
+👨‍🔧 Tools - Git, GitHub, VS Code
+Concepts - Semantic HTML, Responsive Design, Basic Programming Logic
+
+ 📌 Pinned Projects
+Check my pinned repositories below Each documentation showing what I built and what I learned.
+
+### 📫 Let's connect
+
+ Email:[602247@student.belgium Campus.ac.za ]
+ 
+ Open to: Student collaborations, feedback on my code, learnership/internship opportunities
+ 
+📍Location: Alexandra, Gauteng, SA
+
