@@ -10,8 +10,11 @@ I'm an IT student building strong fundamentals in web development and programmin
 
 ⭐️Goal for 2026: Deploy 3 solid projects and land an IT internship
 
- 🛠️ Tech Stack
-Languages: HTML5, CSS, Programming  - basics
+ 🛠️ skills
+ #front-end Development 
+  HTML5
+  CSS
+  Programming  - basics
 
 👨‍🔧 Tools - VS Code
 Concepts - Semantic HTML and  Basic Programming.
