@@ -11,7 +11,7 @@ I'm an IT student building strong fundamentals in web development and programmin
 ⭐️Goal for 2026: Deploy 3 solid projects and land an IT internship
 
  🛠️ skills
- #front-end Development 
+ #front-end Development -
   HTML5
   CSS
   Programming  - basics
