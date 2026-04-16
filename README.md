@@ -19,9 +19,6 @@ I'm an IT student building strong fundamentals in web development and programmin
 👨‍🔧 Tools - VS Code
 Concepts - Semantic HTML and  Basic Programming.
 
- 📌 Pinned Projects
-Check my pinned repositories below Each documentation showing what I built and what I learned.
-
 ### 📫 Let's connect
 
  Email:[602247@student.belgium Campus.ac.za ]
