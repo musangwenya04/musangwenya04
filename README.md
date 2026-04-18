@@ -1,6 +1,6 @@
  # Hi, I'm Musa 👋
 
-### Diploma in IT Student @ Belgium CampusItversity | kempton park 
+### Diploma in IT Student @ Belgium Campus Itversity | kempton park 
 
 I'm an IT student building strong fundamentals in web development and programming. I enjoy turning ideas into clean, functional code and learning how tech solves real problems.
 
