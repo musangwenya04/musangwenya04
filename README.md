@@ -21,7 +21,7 @@ Concepts - Semantic HTML and  Basic Programming.
 
 ### 📫 Let's connect
 
- Email:[602247@student.belgium Campus.ac.za ]
+ Email:[602247@student.belgiumcampus.ac.za ]
  
  Open to: Student collaborations, feedback on my code, learnership/internship opportunities
  
