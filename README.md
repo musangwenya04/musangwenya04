@@ -14,7 +14,7 @@ I'm an IT student building strong fundamentals in web development and programmin
  #front-end Development -
   HTML5,
   CSS and 
- ( Programming  - basics)
+ (c# - basics)
 
 👨‍🔧 Tools - VS Code
 Concepts - Semantic HTML and  Basic Programming.
