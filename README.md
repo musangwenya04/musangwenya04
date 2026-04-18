@@ -4,7 +4,7 @@
 
 I'm an IT student building strong fundamentals in web development and programming. I enjoy turning ideas into clean, functional code and learning how tech solves real problems.
 
-🔭 Current focus: Building responsive layouts with HTML & CSS, and strengthening my programming basics  
+🔭 Current focus: Building responsive layouts with HTML and  CSS, and strengthening my programming basics  
 
 🌱 Learning next : JavaScript for interactivity, and SQL fundamentals  
 
